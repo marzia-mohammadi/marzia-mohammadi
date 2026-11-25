@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**marzia-mohammadi/marzia-mohammadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Marzia Mohammadi 👋
+🎓 IT Student at the University of Dubai
+🔐 Interested in Cybersecurity and Ethical Hacking
+🐍 Learning Python and Programming
+🌐 Exploring Web Development and Open Source
+🚀 Building projects and improving my technical skills.
+## My Goals
+- Develop practical cybersecurity skills.
+- Contribute to open-source projects.
+- Build useful software projects.
+- Grow as an IT professional.
